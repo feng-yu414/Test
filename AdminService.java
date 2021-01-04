@@ -10,5 +10,6 @@ public interface AdminService {
   //222
     public Admin get(String adminName,Integer adminId);
 
+   //333
     public Admin set(String adminName,Integer adminId);
 }
